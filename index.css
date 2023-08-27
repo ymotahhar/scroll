@@ -1,0 +1,13 @@
+
+.box{
+   background-color: blue;
+    height: 400px;
+    overflow: auto; 
+}
+.color{
+    /* background-color:red; */
+    color:white;
+}
+.color.show{
+    color:red;
+}
